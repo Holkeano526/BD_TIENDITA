@@ -1,0 +1,15 @@
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.Form1.resources
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.Resources.resources
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.vbproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\bin\Debug\BD_TIENDITA.exe.config
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\bin\Debug\BD_TIENDITA.exe
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\bin\Debug\BD_TIENDITA.pdb
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\bin\Debug\BD_TIENDITA.xml
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.exe
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.xml
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.pdb
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.vbproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.Listado_de_categoria.resources
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.Listado_de_marca.resources
+C:\Users\Anthony\source\repos\BD_TIENDITA\BD_TIENDITA\obj\Debug\BD_TIENDITA.Listado_de_proveedor.resources
